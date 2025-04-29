@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lostandfound</string>
+    <string name="desc_item_list">List of reported lost and found items</string>
+    <string name="desc_lost_found_list">List of lost and found items</string>
+
+
+</resources>
